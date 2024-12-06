@@ -1,5 +1,4 @@
-
-# IT4062-Project-BattleShipGame
+Project-BattleShipGame-20241
 
 ## Mô tả dự án
 BattleShipGame là một trò chơi chiến thuật theo lượt dựa trên giao thức mạng, được phát triển cho môn học **IT4062**. 
