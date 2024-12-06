@@ -1,5 +1,5 @@
 #include "gamemanager.h"
-
+#include <QDebug>
 #include <QPen>
 #include <QBrush>
 
