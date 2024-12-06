@@ -48,8 +48,7 @@ Trò chơi được xây dựng trên Qt Framework và sử dụng giao thức T
 ### Hướng dẫn cài đặt
 1. **Clone dự án**:
    ```bash
-   git clone <repository-url>
-   cd IT4062-Project-BattleShipGame
+   git clone https://github.com/KhaiLe190904/BattleShip_Network_Project
    ```
 2. **Biên dịch dự án**:
    Sử dụng lệnh sau để biên dịch:
