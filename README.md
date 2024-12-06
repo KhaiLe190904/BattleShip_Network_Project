@@ -34,7 +34,7 @@ Trò chơi được xây dựng trên Qt Framework và sử dụng giao thức T
 ### Công nghệ sử dụng
 - **Ngôn ngữ**: C++ (C++11).
 - **Framework**: Qt (Widgets và Network).
-- **Thư viện bổ sung**: SQLite (nếu có cơ sở dữ liệu).
+- **Thư viện bổ sung**: SQLite (cơ sở dữ liệu).
 
 ---
 
@@ -54,19 +54,19 @@ Trò chơi được xây dựng trên Qt Framework và sử dụng giao thức T
 2. **Biên dịch dự án**:
    Sử dụng lệnh sau để biên dịch:
    ```bash
-   qmake BattleshipGame.pro
    make
    ```
 3. **Chạy ứng dụng**:
    ```bash
-   ./BattleShipGame
+   ./BattleShipServer: chạy bên server trước 
+   ./BattleShipClient: chạy bên client sau
    ```
 
 ---
 
 ## Hướng dẫn chơi
 1. Mở ứng dụng.
-2. Kết nối với đối thủ thông qua mạng (chọn "Host" hoặc "Join").
+2. Kết nối với đối thủ thông qua mạng (chọn "QuickMatch").
 3. Đặt tàu trên bàn cờ của bạn.
 4. Bắt đầu lượt tấn công, nhấp vào ô trên bàn cờ của đối thủ.
 5. Kết thúc trò chơi khi một người chơi chìm toàn bộ tàu của đối thủ.
@@ -80,5 +80,5 @@ Trò chơi được xây dựng trên Qt Framework và sử dụng giao thức T
 
 ## Thông tin liên hệ
 - **Tên dự án**: IT4062-Project-BattleShipGame.
-- **Tác giả**: [Tên nhóm hoặc cá nhân].
-- **Email**: [Email liên hệ].
+- **Tác giả**: Lê Quang Khải và Đỗ Mạnh Phương.
+- **Email**: .
